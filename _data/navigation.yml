@@ -1,10 +1,10 @@
 # main links
 main:
- - title: "About"
-   url: /about/
- - title: "Guided Meditations"
-   url: /guided/
+ - title: "Meditations"
+   url: /meditations/
  - title: "Essays"
    url: /essays/
+ - title: "About"
+   url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
