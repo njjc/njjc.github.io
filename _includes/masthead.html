@@ -1,4 +1,5 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% capture logo_path_light %}{{ site.logo_light }}{% endcapture %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -7,10 +8,10 @@
         {% unless logo == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}">
             <picture>
-              {% unless logo_light == empty %}
+              {% unless logo_path_light == empty %}
                 <!-- light mode logo -->
                 <source
-                  srcset="{{ logo_light | relative_url }}"
+                  srcset="{{ logo_path_light | relative_url }}"
                   media="(prefers-color-scheme: light)">
               {% endunless %}
               <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
