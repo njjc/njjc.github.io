@@ -14,6 +14,9 @@
                   srcset="{{ logo_path_light | relative_url }}"
                   media="(prefers-color-scheme: light)">
               {% endunless %}
+              <source
+                srcset="{{ logo_path | relative_url }}"
+                media="(prefers-color-scheme: dark)">
               <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
             </picture>
           </a>
@@ -29,9 +32,21 @@
             </li>
           {%- endfor -%}
         </ul>
-        {% if site.minimal_mistakes_skin2 %}
+        {% if site.minimal_mistakes_skin_light %}
           <i class="fas fa-fw fa-sun" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
+          {% unless logo_path_light == empty %}
+          <!-- light mode logo -->
+          
+          {% endunless %}
         {% endif %}
+        <picture>
+          <source
+            srcset="{{ logo_path_light | relative_url }}"
+            media="(prefers-color-scheme: light)">
+          <source
+            srcset="{{ logo_path | relative_url }}"
+            media="(prefers-color-scheme: dark)">
+        </picture>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
