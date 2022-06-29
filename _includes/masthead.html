@@ -6,7 +6,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}">
+        <a  rel="stylesheet alternate" class="site-logo" href="{{ '/assets/css/main2.css' | relative_url }}" id="theme_source_2">
             <picture>
               {% unless logo_path_light == empty %}
                 <!-- light mode logo -->
@@ -14,13 +14,25 @@
                   srcset="{{ logo_path_light | relative_url }}"
                   media="(prefers-color-scheme: light)">
               {% endunless %}
-              <source
-                srcset="{{ logo_path | relative_url }}"
-                media="(prefers-color-scheme: dark)">
               <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
             </picture>
           </a>
-        {% endunless %}
+          <script>
+            let theme = sessionStorage.getItem('theme');
+            if (theme === 'dark' || window.matchMedia('(prefers-color-scheme: dark)').matches)
+            {
+              sessionStorage.setItem('theme', 'dark');
+              node1 = document.getElementById('theme_source');
+              node2 = document.getElementById('theme_source_2');
+              node1.setAttribute('rel', 'stylesheet alternate'); 
+              node2.setAttribute('rel', 'stylesheet');
+            }
+            else
+            {
+              sessionStorage.setItem('theme', 'light');
+            }
+          </script>
+          {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
@@ -32,21 +44,6 @@
             </li>
           {%- endfor -%}
         </ul>
-        {% if site.minimal_mistakes_skin_light %}
-          <i class="fas fa-fw fa-sun" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i>
-          {% unless logo_path_light == empty %}
-          <!-- light mode logo -->
-          
-          {% endunless %}
-        {% endif %}
-        <picture>
-          <source
-            srcset="{{ logo_path_light | relative_url }}"
-            media="(prefers-color-scheme: light)">
-          <source
-            srcset="{{ logo_path | relative_url }}"
-            media="(prefers-color-scheme: dark)">
-        </picture>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
