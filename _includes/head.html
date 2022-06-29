@@ -14,14 +14,24 @@
 </script>
 
 <!-- Dark mode -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
 
 <!-- Light mode -->
 {% if site.minimal_mistakes_skin_light %}
-  <meta name="color-scheme" content="dark light">
-  <style>
-    @import url("{{ '/assets/css/main2.css' | relative_url }}") (prefers-color-scheme: light);
-  </style>
+<link rel="stylesheet alternate" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source_2">
+<script>
+  let theme = sessionStorage.getItem('theme');
+  if (theme === 'dark' || window.matchMedia('(prefers-color-scheme: dark)').matches)
+    sessionStorage.setItem('theme', 'dark');
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    node1.setAttribute('rel', 'stylesheet alternate');
+    node2.setAttribute('rel', 'stylesheet');
+  }
+  else {
+    sessionStorage.setItem('theme', 'light');
+  }
+</script>
 {% endif %}
 
 <!-- For all browsers -->
