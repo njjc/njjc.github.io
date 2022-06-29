@@ -6,7 +6,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo == empty %}
-        <a rel="stylesheet alternate" class="site-logo" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;" id="theme_source_2">
+        <a rel="stylesheet alternate" class="site-logo" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;" id="theme_source_2" href="#">
             <picture>
               {% unless logo_path_light == empty %}
                 <!-- light mode logo -->
@@ -14,7 +14,7 @@
                   srcset="{{ logo_path_light | relative_url }}"
                   media="(prefers-color-scheme: light)">
               {% endunless %}
-              <!--img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"-->
+              <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
             </picture>
           </a>
           {% endunless %}
