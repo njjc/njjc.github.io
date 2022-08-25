@@ -1,7 +1,7 @@
 ---
 title: "Test Post - Please Ignore"
 categories:
-  - Meditation
+  - Meditations
 tags:
   - guided
   - audio
