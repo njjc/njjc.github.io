@@ -6,14 +6,8 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo == empty %}
-        <a rel="stylesheet alternate" class="site-logo" onclick="dark_mode_btn_click()" id="theme_source_2" href="#">
+        <a rel="stylesheet alternate" class="site-logo" id="theme_source_2"  href="{{ '/' | relative_url }}">
             <picture>
-              {% unless logo_path_light == empty %}
-                <!-- light mode logo -->
-                <source
-                  srcset="{{ logo_path_light | relative_url }}"
-                  media="(prefers-color-scheme: light)">
-              {% endunless %}
               <img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
             </picture>
           </a>

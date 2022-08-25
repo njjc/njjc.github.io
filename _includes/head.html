@@ -16,35 +16,6 @@
 <!-- Dark mode -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
 
-<!-- Light mode -->
-{% if site.minimal_mistakes_skin_light %}
-<link rel="stylesheet alternate" href="{{ '/assets/css/main2.css' | relative_url }}" id="theme_source_2">
-
-<script>
-  if (sessionStorage.getItem('theme') === null) {
-    if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-      sessionStorage.setItem('theme', 'light');
-    }
-    else{
-      sessionStorage.setItem('theme', 'dark');
-    }
-  }
-
-  let theme = sessionStorage.getItem('theme');
-  if(theme === "dark"){
-    document.getElementById('theme_source').setAttribute('rel', 'stylesheet alternate'); 
-    sessionStorage.setItem('theme', 'dark');
-  }
-  else
-  {
-    document.getElementById('theme_source_2').setAttribute('rel', 'stylesheet alternate'); 
-    sessionStorage.setItem('theme', 'light');
-  }
-</script>
-{% endif %}
-
-
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

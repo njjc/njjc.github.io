@@ -1,9 +1,8 @@
 ---
 layout: single
-title: About
+title: About Unifying Harmony
 permalink: /about/
 ---
-# About Unifying Harmony
 
 I'm Nic. I'm a programmer by vocation and a meditator by passion. As a Buddhist practitioner in daily life and regular retreats since 2010, the fruits of the thousands of hours of meditation and months of silent retreat practice have only really been landing in my being since 2020, when I began incorporating the [Internal Family Systems Model](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model) into my practice. 
 
