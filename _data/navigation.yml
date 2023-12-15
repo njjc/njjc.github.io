@@ -1,10 +1,10 @@
 # main links
 main:
- - title: "Meditations"
-   url: /meditations/
- - title: "Essays"
-   url: /essays/
- - title: "About"
-   url: /about/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    #- title: "Meditations"
+    # url: /meditations/
+    #- title: "Essays"
+    # url: /essays/
+    - title: "About"
+      url: /about/
+      # - title: "Sitemap"
+      #   url: /sitemap/
