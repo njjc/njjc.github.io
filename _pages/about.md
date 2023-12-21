@@ -4,6 +4,8 @@ title: About Unifying Harmony
 permalink: /about/
 ---
 
+{{ content }}
+
 Hello friend, my name is Nic Campbell. I was a software engineer with a great career writing open source software that helps tens of thousands of nonprofits. My career was the culmination of a decades of learning and effort, and I was well paid and well respected.
 
 The only problem was that I was miserable. I burned out, my mental and physical health in shambles from stress, a toxic corporate environment, and a gnawing sense of meaninglessness. I had achieved my life goals and was worse off for it.

@@ -4,11 +4,11 @@ layout: single
 
 {{ content }}
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://fabform.io/f/1dm3kr0" method="post">
+<form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://fabform.io/f/1dm3kr0" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="full-name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
+    <label for="full-name">Name</label>
+    <input type="text" name="full-name" id="full-name" placeholder="First Last" required="">
+    <label for="email-address">Email</label>
     <input type="email" name="email-address" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Anything you'd like me to know." required=""></textarea>
@@ -17,7 +17,7 @@ layout: single
   <input type="submit" value="Submit">
 </form>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!--h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3-->
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
