@@ -108,7 +108,7 @@ author:
     avatar: "/assets/images/Nic.png"
     bio: "Aletheia Coach & Meditation Mentor"
     location: "Gig Harbor, WA"
-    email: nicolas.campbell+unifyingharmony@gmail.com
+    #    email: nicolas.campbell+unifyingharmony@gmail.com
     links:
         - label: "Email"
           icon: "fas fa-fw fa-envelope-square"
@@ -277,7 +277,7 @@ defaults:
       values:
           layout: single
           author_profile: true
-          read_time: true
+          read_time: false
           comments: # true
-          share: true
+          share: false
           related: true
