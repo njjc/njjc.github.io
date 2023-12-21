@@ -2,9 +2,8 @@
 layout: single
 title: About Unifying Harmony
 permalink: /about/
+author_profile: true
 ---
-
-{{ content }}
 
 Hello friend, my name is Nic Campbell. I was a software engineer with a great career writing open source software that helps tens of thousands of nonprofits. My career was the culmination of a decades of learning and effort, and I was well paid and well respected.
 

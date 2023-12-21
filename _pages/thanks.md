@@ -2,7 +2,7 @@
 layout: single
 title: Unifying Harmony
 permalink: /thanks/
-author: Nicolas Campbell
+author_profile: true
 ---
 
 Thanks for reaching out! I'll be in touch soon.
