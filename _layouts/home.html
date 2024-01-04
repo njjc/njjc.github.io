@@ -5,6 +5,8 @@ layout: single
 {{ content }}
 {% assign about = site.pages | where: 'name','about.md' %}
 {{ about }}
+{% assign testimonials = site.pages | where: 'name','testimonials.md' %}
+{{ testimonials }}
 
 <form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://fabform.io/f/1dm3kr0" method="post">
   <fieldset id="fs-frm-inputs">
