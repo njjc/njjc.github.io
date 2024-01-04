@@ -1,6 +1,11 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
+.page__footer-image {
+  background-image: URL("/assets/images/earth-horizon.png");
+  background-size: cover;
+  background-position: bottom;
+}
 
 .page__footer {
   @include clearfix;
