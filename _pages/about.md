@@ -5,7 +5,9 @@ permalink: /about/
 author_profile: true
 ---
 
-Hello friend, my name is Nic. I was a software engineer with a great career writing open source software that helps tens of thousands of nonprofits. My career was the culmination of a decades of learning and effort, and I was well paid and well respected.
+Hello friend, my name is Nic.
+
+I was a software engineer with a great career writing open source software that helps tens of thousands of nonprofits. My career was the culmination of a decades of learning and effort, and I was well paid and well respected.
 
 The only problem was that I was miserable. I burned out, my mental and physical health in shambles from stress, a toxic corporate environment, and a gnawing sense of meaninglessness. I had achieved my life goals and was worse off for it.
 
@@ -16,3 +18,10 @@ The symbiosis of parts work and Buddhist heart practice has impacted me profound
 I found my calling in helping others integrate their unmetabolized experiences, to remember themselves experientally as fundamentally whole and deeply interconnected with the all. I'm now an Aletheia coach, authorized to teach Buddhist heart practices by [Stephen Snyder](https://awakeningdharma.org) in the lineage of [Pa Awk Sayadow](https://www.paaukforestmonastery.org/about-us). I'm also a member of the Association for Spiritual Integrity and abide by their [Honor Code of Ethics and Good Practice](https://www.spiritual-integrity.org/honor-code/honor-code-for-individuals/).
 
 If you're interested in meditation practice and want an empathetic, attuned, and knowledgable guide to help you navigate life's unfolding, please reach out. I'd love to get to know you.
+
+# Testimonials
+
+> _"After years of trying different meditation and therapy techniques, my Aletheia sessions with Nic are the only thing I’ve found that allows me to change old stuck patterns in significant ways. I’m continually surprised by how quickly Nic guides me into deep states where things I’ve wrestled with for years shift and unfold naturally. And most importantly, these shifts translate into real changes in my behavior and emotions in daily life."_
+> ~ Matt B.
+
+# Contact
