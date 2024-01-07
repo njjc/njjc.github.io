@@ -34,10 +34,6 @@ footer {
     margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
   }
 
   a {
