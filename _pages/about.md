@@ -26,4 +26,11 @@ If you're interested in meditation practice and you want an empathetic, attuned,
 
 > _"Nic and I met in an online Dharma group several years ago, when I was struggling with my path in life and my place in the world. Nic has taught so much about my emotions and my inner processes over the years, but I've noticed a profound shift in his presence since he began working with the Aletheia method. Nic graciously invited me to share in the joy and insight that stem from combining parts work with the Dharma. I cannot express how much it means to me to have a teacher and friend like Nic. Our sessions together are always non-judgmental, open, honest, and trusting. I have never felt so safe and appreciated for who I am. Most importantly, I'm learning to love myself and use that love to change my life for the better."_ \- Collin G.
 
+# Pricing
+
+Sliding Scale: $100-$200 per session
+
+Please consider paying at the highest rate that you can afford. Your generosity supports practitioners with limited finances.
+If this work calls to you and the rates are outside of your current ability to pay, let me know.
+
 # Contact
