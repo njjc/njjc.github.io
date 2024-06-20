@@ -6,8 +6,10 @@ layout: single
 {% assign about = site.pages | where: 'name','about.md' %}
 {{ about }}
 
-<form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://fabform.io/f/55EgfyZ" method="post">
+<form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://api.staticforms.xyz/submit" method="post">
   <fieldset id="fs-frm-inputs">
+    <input type="hidden" name="accessKey" value="3218e1d3-567d-430b-86eb-36f6256dd2ff"> <!-- Required -->
+    <input type="text" name="honeypot" id="honeypot" style="display: none;"> <!-- Optional -->
     <label for="full-name">Name</label>
     <input type="text" name="full-name" id="full-name" placeholder="First Last" required="">
     <label for="email-address">Email</label>
@@ -15,6 +17,7 @@ layout: single
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Anything you'd like me to know." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" name="redirectTo" value="https://unifyingharmony.org/thanks"> <!-- Optional -->
   </fieldset>
   <input type="submit" value="Submit">
 </form>
