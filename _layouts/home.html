@@ -6,22 +6,24 @@ layout: single
 {% assign about = site.pages | where: 'name','about.md' %}
 {{ about }}
 
-<form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://api.staticforms.xyz/submit" method="post">
+<form id="fs-frm" name="contact-form" accept-charset="utf-8" action="https://api.web3forms.com/submit" method="post">
   <fieldset id="fs-frm-inputs">
-    <input type="hidden" name="accessKey" value="3218e1d3-567d-430b-86eb-36f6256dd2ff"> <!-- Required -->
-    <input type="text" name="honeypot" id="honeypot" style="display: none;"> <!-- Optional -->
     <label for="name">Name</label>
-    <input type="text" name="name" id="name" placeholder="First Last" required="">
+    <input type="text" name="name" id="name" placeholder="First Last" required>
     <label for="email">Email</label>
-    <input type="email" name="email" id="email" placeholder="email@domain.tld" required="">
+    <input type="email" name="email" id="email" placeholder="email@domain.tld" required>
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Anything you'd like me to know." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-    <input type="hidden" name="redirectTo" value="https://unifyingharmony.org/thanks"> <!-- Optional -->
+    <textarea rows="5" name="message" id="message" placeholder="Anything you'd like me to know." required></textarea>
+    <input type="hidden" name="subject" id="email-subject" value="Unifying Harmony Contact Form Submission">
+    <input type="hidden" name="redirect" value="https://unifyingharmony.org/thanks">
+    <input type="hidden" name="accessKey" value="3e8169cd-bcbb-4427-882b-2b65b7599db5">
+    <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
   </fieldset>
+  <div class="h-captcha" data-captcha="true"></div>
   <input type="submit" value="Submit">
 </form>
 
+<script src="https://web3forms.com/client/script.js" async defer></script>
 <!--h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3-->
 
 {% if paginator %}
