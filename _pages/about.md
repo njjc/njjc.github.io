@@ -28,7 +28,7 @@ If you're interested in meditation practice and you want an empathetic, attuned,
 
 # Pricing
 
-Sliding Scale: $100-$200 per session
+Sliding Scale: $125-$200 per session
 
 Please consider paying at the highest rate that you can afford. Your generosity supports practitioners with limited finances.
 If this work calls to you and the rates are outside of your current ability to pay, let me know.
