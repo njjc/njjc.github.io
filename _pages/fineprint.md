@@ -1,4 +1,9 @@
-# Policies and Disclaimers
+---
+layout: single
+title: Policies and Disclaimers
+permalink: /fineprint/
+author_profile: false
+---
 
 -   Cancellation policy: cancellations made 24 hours before a scheduled session will be fully refunded. Cancellations after then will forfeit the session fee.
 -   Legal and Medical Disclaimer: Nicolas Campbell (aka unifyingharmony.org) is an Aletheia Coach and meditation mentor, trained by [Aletheia Integral Unfoldment](https://integralunfoldment.com) and [Stephen Snyder](https://awakeningdharma.org). Nicolas Campbell is not a licensed mental health counselor or therapist. Nicolas Campbell is not providing healthcare, medical, therapy, counseling, or nutritional services. Nicolas Campbell does not attempt to diagnose or treat mental, physical, or emotional conditions, and takes a non-pathologizing approach to work with clients. The information on this website and during sessions is for informational purposes only and is not intended to substitute professional medical advice, diagnoses, or treatment. Always seek advice from your physician or other qualified healthcare provider before undertaking a new health regimen. Do not disregard medical advice or delay seeking one because of the information you read on this website or advice you receive in session. Do not start or stop any medications without speaking to your medical or mental health provider first. Nicolas Campbell's recommendations are never intended to supersede those of a licensed professional.
