@@ -18,6 +18,26 @@ I found my calling in helping others integrate their unprocessed experiences, to
 
 If you're interested in meditation practice and you want an empathetic, attuned, and knowledgable guide to help you navigate life's unfolding, please reach out. I'd love to get to know you.
 
+# Philosophy
+
+**Heart Centered** - The warmth of loving awareness provides both a means to profound healing and an end in itself.
+
+**Attuned** - Tending sensitively to our embodied emotional experience in relationship forms the basis of my practice.
+
+**Trauma Sensitive** - I view developmental trauma as what's in the way of spiritual realization, rather than a lack of effort or discipline in meditation.
+
+**Embodied** - Trauma leaves us disconnected from and at odds with our embodied experience; that is also where we discover our deepest gifts.
+
+**Experiential** - Only our current experience of reality can be known as (and always already is) whole and complete.
+
+**Pragmatic** - I orient to what works, holding beliefs and ideas loosely.
+
+**Metasystemic** - I believe all teachings and streams of knowledge are valuable, and that none can be perfect or complete.
+
+**Integral** - I have benefitted from and practice the integration of scientific and spiritual modes of knowing.
+
+**Buddhist** - I’ve been deeply inspired and transformed by Buddhist practices. You can be of any or no religious persuasion.
+
 # Testimonials
 
 > _"After years of trying different meditation and therapy techniques, my Aletheia sessions with Nic are the only thing I’ve found that allows me to change old stuck patterns in significant ways. I’m continually surprised by how quickly Nic guides me into deep states where things I’ve wrestled with for years shift and unfold naturally. And most importantly, these shifts translate into real changes in my behavior and emotions in daily life."_ \- Matt B.
@@ -28,7 +48,7 @@ If you're interested in meditation practice and you want an empathetic, attuned,
 
 # Pricing
 
-Sliding Scale: $125-$200 per session
+Sliding Scale: $150-$250 per session
 
 Please consider paying at the highest rate that you can afford. Your generosity supports practitioners with limited finances.
 If this work calls to you and the rates are outside of your current ability to pay, let me know.
