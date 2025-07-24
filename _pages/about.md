@@ -4,17 +4,17 @@ title: About Unifying Harmony
 author_profile: true
 ---
 
-# Healing The Sacred Wound: When Love Remembers Itself
+**The Sacred Wound: When Love Remembers Itself**
 
 To say everything is empty is to say everything is relational. To practice alone is to miss the very heart of what we're awakening to.
 
 If you're a serious meditation practitioner who has touched profound depths yet still carries unhealed places that feel exiled from love—if you sense a gap between realization and the lived tenderness of embodied wholeness—you've found someone who knows this territory intimately.
 
-I was born carrying what we might call the original wound: that unshakable sense of separateness that tells us we are alone in a cold, uncaring universe. Before my father's sudden death when I was eight, before the collapse of my enchanted childhood world, there was already a baby inside me who felt fundamentally unwelcome, unlovable, cast out from the garden of belonging.
+My earliest memories were infused with the original wound: an unshakable sense of separateness that tells us we are alone in a cold, uncaring universe. Before my father's sudden death when I was eight, before the collapse of my enchanted childhood world, there was already a baby inside me who felt fundamentally unwelcome, unlovable, cast out from the garden of belonging.
 
 This wasn't just psychological—it was cosmological. The world itself and the people in it felt fundamentally unsafe, indifferent to my existence. And when my climatologist father died (a man devoted to "the infinite profundity of understanding our place in the cosmos"), that early wound crystallized into a life-organizing narrative: love is unreliable, sanctuary is temporary, and survival depends on hiding the tender places that long for connection.
 
-For decades I tried to heal this through everything but love itself. Video games, alcohol, career achievement as a software engineer serving tens of thousands of nonprofits—even years of rigorous solo meditation practice with master teachers. I had the maps, the techniques, the insights. I could taste emptiness, witness the arising and passing of phenomena, access profound states. Yet I remained fundamentally miserable, my nervous system in chronic protection mode, my body breaking down from autoimmunity and burnout.
+For decades I tried to heal this through everything but love itself. Video games, alcohol, career achievement as a software engineer serving tens of thousands of nonprofits—even months of retreat and years of rigorous solo meditation practice guided by master teachers. I had the maps, the techniques, the insights. I could taste emptiness, witness the arising and passing of phenomena, access profound states. Yet I remained fundamentally miserable, my nervous system in chronic protection mode, my body breaking down from autoimmunity and burnout.
 
 The dharma I had learned cognitively finally revealed itself where I least expected: not through perfect practice or spiritual accomplishment, but through learning to meet my own exiled parts with the same tender attunement I would offer a frightened child. Through parts work meeting heart practices, I worked through layers of wounding in my psyche only to discover the terrified baby in me wasn't a problem to transcend—he was the doorway to the deepest realization.
 
@@ -55,9 +55,12 @@ _If you're ready to discover that your deepest wound has always been your deepes
 # Lineages
 
 Authorized to teach Buddhist practices by [Stephen Snyder](https://awakeningdharma.org) in the lineage of [Pa Awk Sayadow](https://www.paaukforestmonastery.org/about-us).
+
 Graduate of [Aletheia Integral Unfoldment](https://integralunfoldment.com/)'s Advanced Coaching Program levels 1, 2, and 3.
+
 With gratitude for the teachings of [Rob Burbea](https://hermesamara.org/), [Dr. Daniel P. Brown](https://www.drdanielpbrown.com/), [Murray Kennedy](https://murintensive.com/), [Michael Taft](https://deconstructingyourself.com/), [Leigh Braisington](http://leighb.com/), and many more.
-Current student of [Planetary Dharma](https://www.planetarydharma.com/)
+
+Current student and evangalist of [Planetary Dharma](https://www.planetarydharma.com/).
 
 # Testimonials
 
