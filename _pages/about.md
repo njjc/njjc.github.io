@@ -4,19 +4,33 @@ title: About Unifying Harmony
 author_profile: true
 ---
 
-Hello friend, my name is Nic.
+# Healing The Sacred Wound: When Love Remembers Itself
 
-I was a software engineer with a great career writing open source software that helps tens of thousands of nonprofits. My career was the culmination of a decades of learning and effort, and I was well paid and well respected.
+To say everything is empty is to say everything is relational. To practice alone is to miss the very heart of what we're awakening to.
 
-The only problem was that I was miserable. I burned out, my mental and physical health in shambles from stress, a toxic corporate environment, and a gnawing sense of meaninglessness. I had achieved my life goals and was worse off for it.
+If you're a serious meditation practitioner who has touched profound depths yet still carries unhealed places that feel exiled from love—if you sense a gap between realization and the lived tenderness of embodied wholeness—you've found someone who knows this territory intimately.
 
-I have been a Buddhist meditation practitioner in daily life for over a decade and attended months of cumulative silent retreats, yet the fruits of that practice only really began landing in my being when I began incorporating the parts work using [Internal Family Systems](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model) in combination with [Buddhist heart practices](https://en.wikipedia.org/wiki/Brahmavihara).
+I was born carrying what we might call the original wound: that unshakable sense of separateness that tells us we are alone in a cold, uncaring universe. Before my father's sudden death when I was eight, before the collapse of my enchanted childhood world, there was already a baby inside me who felt fundamentally unwelcome, unlovable, cast out from the garden of belonging.
 
-The symbiosis of parts work and Buddhist heart practice has impacted me profoundly, leading to rapid transformation of my life inside and out. From anxiety to ease. From depression to love. I then discovered [Aletheia](https://integralunfoldment.com/), a fourth generation coaching methodology that seamlessly integrates ancient wisdom and modern knowledge, providing the most rapid and enduring transformation I've experienced.
+This wasn't just psychological—it was cosmological. The world itself and the people in it felt fundamentally unsafe, indifferent to my existence. And when my climatologist father died (a man devoted to "the infinite profundity of understanding our place in the cosmos"), that early wound crystallized into a life-organizing narrative: love is unreliable, sanctuary is temporary, and survival depends on hiding the tender places that long for connection.
 
-I found my calling in helping others integrate their unprocessed experiences, to remember themselves experientally as fundamentally whole and deeply interconnected with everything. I'm now an Aletheia coach, authorized to teach Buddhist heart practices by [Stephen Snyder](https://awakeningdharma.org) in the lineage of [Pa Awk Sayadow](https://www.paaukforestmonastery.org/about-us). I'm also a member of the Association for Spiritual Integrity and abide by their [Honor Code of Ethics and Good Practice](https://www.spiritual-integrity.org/honor-code/honor-code-for-individuals/).
+For decades I tried to heal this through everything but love itself. Video games, alcohol, career achievement as a software engineer serving tens of thousands of nonprofits—even years of rigorous solo meditation practice with master teachers. I had the maps, the techniques, the insights. I could taste emptiness, witness the arising and passing of phenomena, access profound states. Yet I remained fundamentally miserable, my nervous system in chronic protection mode, my body breaking down from autoimmunity and burnout.
 
-If you're interested in meditation practice and you want an empathetic, attuned, and knowledgable guide to help you navigate life's unfolding, please reach out. I'd love to get to know you.
+The dharma I had learned cognitively finally revealed itself where I least expected: not through perfect practice or spiritual accomplishment, but through learning to meet my own exiled parts with the same tender attunement I would offer a frightened child. Through parts work meeting heart practices, I worked through layers of wounding in my psyche only to discover the terrified baby in me wasn't a problem to transcend—he was the doorway to the deepest realization.
+
+**Everything changed when I realized experientially that reality itself is sentient and loving.** Not love as an emotion or experience, but love as the fundamental nature of existence—the intelligent, attuned awareness in which all experience arises. And if reality is alive with love, then I am not separate from reality. I am an integral, welcome expression of the love that reality is.
+
+This recognition didn't happen through more insight, better technique, or longer retreats. It emerged through relationship—through being met with such complete attunement by another human being that the defended places in me finally felt safe enough to reveal their truth. In that spacious welcome, the original wound could finally be seen for what it always was: not evidence of cosmic indifference, but love calling out to itself through apparent separation.
+
+Working together, we create the same field of fundamental welcome that allowed my deepest healing. This isn't coaching in the conventional sense—it's a collaborative meditation into the living mystery of how love recognizes itself even in our most defended places. We discover that your sacred wounds aren't obstacles to awakening but the doorways into the precise medicine the world is asking you to offer.
+
+We work with the understanding that everything wanting to heal is also seeking to contribute. Your depression carries gifts of depth. Your anxiety holds exquisite sensitivity. Your rage protects precious boundaries. When these parts are met with loving attunement rather than spiritual bypass, they reveal not just their original pain but their essential contribution to your soul's capacities and purpose.
+
+This is the bodhisattva's recognition: that individual liberation and collective healing are not two separate movements. As you learn to offer fundamental welcome to your own exiled parts, you naturally develop the capacity to hold space for others' healing. The love that heals you through you becomes the love that heals the world.
+
+We cannot complete this journey alone because the wound of separation can only be healed with relationship. Only by discovering experientially that we are held by a loving cosmos—that our fundamental nature is the same loving awareness that moves the stars and tends the flowers—can any of us remember what was never actually lost.
+
+_If you're ready to discover that your deepest wound has always been your deepest gift, that love has been seeking you through every moment of apparent exile, please reach out - I'd love to explore this together._
 
 # Philosophy
 
@@ -38,6 +52,13 @@ If you're interested in meditation practice and you want an empathetic, attuned,
 
 **Buddhist** - I’ve been deeply inspired and transformed by Buddhist practices. You can be of any or no religious persuasion.
 
+# Lineages
+
+Authorized to teach Buddhist practices by [Stephen Snyder](https://awakeningdharma.org) in the lineage of [Pa Awk Sayadow](https://www.paaukforestmonastery.org/about-us).
+Graduate of [Aletheia Integral Unfoldment](https://integralunfoldment.com/)'s Advanced Coaching Program levels 1, 2, and 3.
+With gratitude for the teachings of [Rob Burbea](https://hermesamara.org/), [Dr. Daniel P. Brown](https://www.drdanielpbrown.com/), [Murray Kennedy](https://murintensive.com/), [Michael Taft](https://deconstructingyourself.com/), [Leigh Braisington](http://leighb.com/), and many more.
+Current student of [Planetary Dharma](https://www.planetarydharma.com/)
+
 # Testimonials
 
 > _"After years of trying different meditation and therapy techniques, my Aletheia sessions with Nic are the only thing I’ve found that allows me to change old stuck patterns in significant ways. I’m continually surprised by how quickly Nic guides me into deep states where things I’ve wrestled with for years shift and unfold naturally. And most importantly, these shifts translate into real changes in my behavior and emotions in daily life."_ \- Matt B.
@@ -48,7 +69,7 @@ If you're interested in meditation practice and you want an empathetic, attuned,
 
 # Pricing
 
-Sliding Scale: $150-$250 per session
+Sliding Scale: $150-$250 per hour-long session
 
 Please consider paying at the highest rate that you can afford. Your generosity supports practitioners with limited finances.
 If this work calls to you and the rates are outside of your current ability to pay, let me know.
